@@ -1,0 +1,6 @@
+{
+  "name": "عالم أكرم - تطبيق تعليمي للأطفال",
+  "description": "تطبيق تعليمي تفاعلي مبهج للأطفال لتعلم الحروف العربية والأرقام والحساب والألعاب التفاعلية بأصوات ونطق عربي.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
